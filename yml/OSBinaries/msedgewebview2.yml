@@ -33,6 +33,7 @@ Commands:
     MitreID: T1202
     OperatingSystem: Windows 10, Windows 11
 Full_Path:
+  - Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\117.0.2045.47\msedgewebview2.exe
   - Path: C:\Program Files (x86)\Microsoft\Edge\Application\114.0.1823.43\msedgewebview2.exe
 Detection:
   - IOC: 'msedgewebview2.exe spawned with any of the following: --gpu-launcher, --utility-cmd-prefix, --renderer-cmd-prefix, --browser-subprocess-path'

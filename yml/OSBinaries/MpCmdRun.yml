@@ -26,6 +26,7 @@ Commands:
     MitreID: T1564.004
     OperatingSystem: Windows 10
 Full_Path:
+  - Path: C:\Program Files\Windows Defender\MpCmdRun.exe
   - Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.4-0\MpCmdRun.exe
   - Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.7-0\MpCmdRun.exe
   - Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2008.9-0\MpCmdRun.exe
